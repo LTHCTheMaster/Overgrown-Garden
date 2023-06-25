@@ -53,6 +53,18 @@
 						"depth": 0,
 						"offset": 0
 					}
+				},
+				{
+					"biome": "lthc.overgrown_garden:0ld_growth_forest",
+					"parameters": {
+						"temperature": 0,
+						"humidity": 0.01,
+						"continentalness": -0.01,
+						"erosion": 0,
+						"weirdness": 0,
+						"depth": 0,
+						"offset": 0
+					}
 				}
 			]
 		}
