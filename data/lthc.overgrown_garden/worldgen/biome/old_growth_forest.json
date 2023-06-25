@@ -54,13 +54,13 @@
 			"lthc.overgrown_garden:spring_water"
 		],
 		[
-			"lthc.overgrown_garden:forest_flowers",
-			"lthc.overgrown_garden:birch_tall",
-			"lthc.overgrown_garden:patch_grass_forest",
 			"lthc.overgrown_garden:patch_large_fern",
-			"lthc.overgrown_garden:trees_old_growth_spruce_taiga",
+			"lthc.overgrown_garden:trees_old_growth_pine_taiga",
 			"lthc.overgrown_garden:patch_grass_taiga",
-			"lthc.overgrown_garden:trees_old_growth_pine_taiga"
+			"lthc.overgrown_garden:forest_flowers2",
+			"lthc.overgrown_garden:birch_tall2",
+			"lthc.overgrown_garden:patch_grass_forest2",
+			"lthc.overgrown_garden:trees_old_growth_spruce_taiga2"
 		],
 		[]
 	]
