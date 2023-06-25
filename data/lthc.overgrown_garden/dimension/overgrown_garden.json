@@ -55,7 +55,7 @@
 					}
 				},
 				{
-					"biome": "lthc.overgrown_garden:0ld_growth_forest",
+					"biome": "lthc.overgrown_garden:old_growth_forest",
 					"parameters": {
 						"temperature": 0,
 						"humidity": 0.01,
