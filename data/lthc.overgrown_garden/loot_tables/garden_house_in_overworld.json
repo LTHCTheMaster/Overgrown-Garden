@@ -158,6 +158,51 @@
 					"weight": 1
 				}
 			]
+		},
+		{
+			"rolls": 1,
+			"bonus_rolls": 0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "apple",
+					"functions": [
+						{
+							"function": "set_name",
+							"name": "Pomum Magni Horti"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{lthc_overgrown_garden:{teleporter:1b}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								{
+									"text": "taste my knowledge, taste my world, taste the garden"
+								}
+							]
+						},
+						{
+							"function": "set_enchantments",
+							"enchantments": {
+								"respiration": 1,
+								"fortune": 1,
+								"silk_touch": 1,
+								"unbreaking": 1
+							}
+						},
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					],
+					"weight": 1
+				}
+			]
 		}
 	]
 }
