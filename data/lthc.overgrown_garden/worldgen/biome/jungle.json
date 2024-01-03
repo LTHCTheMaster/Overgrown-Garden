@@ -1,0 +1,54 @@
+{
+	"temperature": 0.95,
+	"downfall": 0.9,
+	"has_precipitation": true,
+	"effects": {
+		"sky_color": 1599524,
+		"fog_color": 1816101,
+		"water_color": 350037,
+		"water_fog_color": 81268,
+		"grass_color": 28709,
+		"foliage_color": 1155601,
+		"mood_sound": {
+			"sound": "minecraft:ambient.cave",
+			"tick_delay": 6000,
+			"block_search_extent": 8,
+			"offset": 2
+		},
+		"music": {
+			"sound": "minecraft:music.overworld.jungle",
+			"min_delay": 12000,
+			"max_delay": 24000,
+			"replace_current_music": false
+		}
+	},
+	"spawners": {
+		"ambient": [],
+		"axolotls": [],
+		"creature": [],
+		"misc": [],
+		"monster": [],
+		"underground_water_creature": [],
+		"water_ambient": [],
+		"water_creature": []
+	},
+	"spawn_costs": {},
+	"carvers": {},
+	"features": [
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			"lthc.overgrown_garden:spring_water"
+		],
+		[
+			"lthc.overgrown_garden:trees_jungle"
+		],
+		[]
+	]
+}

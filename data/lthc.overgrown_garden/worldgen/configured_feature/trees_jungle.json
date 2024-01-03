@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:random_selector",
+	"config": {
+		"features": [
+			{
+				"chance": 0.09,
+				"feature": "lthc.overgrown_garden:fancy_oak_checked"
+			},
+			{
+				"chance": 0.48,
+				"feature": "lthc.overgrown_garden:jungle_bush"
+			},
+			{
+				"chance": 0.33,
+				"feature": "lthc.overgrown_garden:mega_jungle_tree_checked"
+			}
+		],
+		"default": "lthc.overgrown_garden:jungle_tree"
+	}
+}

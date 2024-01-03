@@ -65,6 +65,18 @@
 						"depth": 0,
 						"offset": 0
 					}
+				},
+				{
+					"biome": "lthc.overgrown_garden:jungle",
+					"parameters": {
+						"temperature": 0,
+						"humidity": 0.009,
+						"continentalness": -0.011,
+						"erosion": 0,
+						"weirdness": 0,
+						"depth": 0,
+						"offset": 0
+					}
 				}
 			]
 		}
