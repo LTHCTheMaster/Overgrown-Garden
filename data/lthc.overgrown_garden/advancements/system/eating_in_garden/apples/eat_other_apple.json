@@ -16,12 +16,12 @@
 						}
 					},
 					{
-						"condition": "alternative",
+						"condition": "any_of",
 						"terms": [
 							{
 								"condition": "inverted",
 								"term": {
-									"condition": "alternative",
+									"condition": "any_of",
 									"terms": [
 										{
 											"condition": "inverted",
@@ -40,7 +40,7 @@
 											}
 										},
 										{
-											"condition": "alternative",
+											"condition": "any_of",
 											"terms": [
 												{
 													"condition": "inverted",
@@ -78,12 +78,12 @@
 								}
 							},
 							{
-								"condition": "alternative",
+								"condition": "any_of",
 								"terms": [
 									{
 										"condition": "inverted",
 										"term": {
-											"condition": "alternative",
+											"condition": "any_of",
 											"terms": [
 												{
 													"condition": "entity_properties",
@@ -99,7 +99,7 @@
 													}
 												},
 												{
-													"condition": "alternative",
+													"condition": "any_of",
 													"terms": [
 														{
 															"condition": "inverted",
@@ -139,7 +139,7 @@
 									{
 										"condition": "inverted",
 										"term": {
-											"condition": "alternative",
+											"condition": "any_of",
 											"terms": [
 												{
 													"condition": "entity_properties",
@@ -155,7 +155,7 @@
 													}
 												},
 												{
-													"condition": "alternative",
+													"condition": "any_of",
 													"terms": [
 														{
 															"condition": "inverted",
