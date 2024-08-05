@@ -6,13 +6,117 @@
 		"title": "The Overgrown Garden",
 		"description": "old and powerful knowledege hidden behind an apple",
 		"announce_to_chat": false,
-		"frame": "task",
+		"frame": "challenge",
 		"show_toast": false,
 		"background": "minecraft:textures/block/moss_block.png"
 	},
 	"criteria": {
-		"impossible": {
-			"trigger": "impossible"
+		"a": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/garden_house": true
+						}
+					}
+				}
+			}
+		},
+		"b": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/strange_apple": true
+						}
+					}
+				}
+			}
+		},
+		"c": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/oh_my_garden": true
+						}
+					}
+				}
+			}
+		},
+		"d": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/master": true
+						}
+					}
+				}
+			}
+		},
+		"e": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/temple": true
+						}
+					}
+				}
+			}
+		},
+		"f": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/kill_garden_guardian": true
+						}
+					}
+				}
+			}
+		},
+		"g": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"player": {
+					"type": "player",
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"lthc.overgrown_garden:visible/get_killed_by_garden_guardian": true
+						}
+					}
+				}
+			}
 		}
-	}
+	},
+	"requirements": [
+		["a"],
+		["b"],
+		["c"],
+		["d"],
+		["e"],
+		["f"],
+		["g"]
+	]
 }

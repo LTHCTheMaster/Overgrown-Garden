@@ -5,7 +5,8 @@
 		},
 		"title": "Veni Vidi Vici",
 		"description": "Kill the Garden Guardian",
-		"hidden": true
+		"hidden": true,
+		"frame": "goal"
 	},
 	"criteria": {
 		"unlock": {
