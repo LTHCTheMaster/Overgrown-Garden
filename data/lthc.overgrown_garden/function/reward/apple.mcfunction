@@ -1,0 +1,1 @@
+give @s apple[custom_data={"lthc.overgrown_garden.teleporter":true}, lore=['{"text":"taste my knowledge, taste my world, taste the garden"}'], item_name='{"text":"Pomum Magni Horti"}', enchantments={respiration:1,fortune:1,silk_touch:1,unbreaking:1}] 5

@@ -4,7 +4,5 @@
 	},
 	"editor.insertSpaces": false,
     "editor.tabSize": 4,
-    "editor.detectIndentation": true,
-	"datapack.env.cmdVersion": "1.20.3",
-	"datapack.env.dataVersion": "1.20.3"
+    "editor.detectIndentation": true
 }

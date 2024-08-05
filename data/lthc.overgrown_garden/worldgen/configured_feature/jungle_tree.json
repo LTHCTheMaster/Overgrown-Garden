@@ -44,10 +44,8 @@
 			"height_rand_b": 2,
 			"bend_length": {
 				"type": "minecraft:uniform",
-				"value": {
 					"min_inclusive": 1,
 					"max_inclusive": 3
-				}
 			},
 			"min_height_for_leaves": 5
 		},
@@ -55,24 +53,18 @@
 			"type": "minecraft:cherry_foliage_placer",
 			"radius": {
 				"type": "minecraft:uniform",
-				"value": {
 					"min_inclusive": 4,
 					"max_inclusive": 5
-				}
 			},
 			"offset": {
 				"type": "minecraft:uniform",
-				"value": {
 					"min_inclusive": 0,
 					"max_inclusive": 1
-				}
 			},
 			"height": {
 				"type": "minecraft:uniform",
-				"value": {
 					"min_inclusive": 7,
 					"max_inclusive": 11
-				}
 			},
 			"wide_bottom_layer_hole_chance": 0,
 			"corner_hole_chance": 0,

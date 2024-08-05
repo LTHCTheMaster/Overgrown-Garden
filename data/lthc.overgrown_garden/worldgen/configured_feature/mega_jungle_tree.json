@@ -45,17 +45,13 @@
 			"type": "minecraft:jungle_foliage_placer",
 			"radius": {
 				"type": "minecraft:uniform",
-				"value": {
 					"min_inclusive": 3,
 					"max_inclusive": 6
-				}
 			},
 			"offset": {
 				"type": "minecraft:biased_to_bottom",
-				"value": {
 					"min_inclusive": 0,
 					"max_inclusive": 2
-				}
 			},
 			"height": 3
 		},
